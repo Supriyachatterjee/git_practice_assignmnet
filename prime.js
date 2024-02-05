@@ -1,4 +1,4 @@
-let count = 3;
+let count = 2;// code corrected
 let num = 13;
     for(i = 1 ; i >= num ; i++){
         if(num % i === 0 )
